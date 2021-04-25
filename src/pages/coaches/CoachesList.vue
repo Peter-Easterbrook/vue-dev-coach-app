@@ -128,4 +128,8 @@ ul {
   display: flex;
   justify-content: space-between;
 }
+
+h3 {
+  font-weight: 300;
+}
 </style>

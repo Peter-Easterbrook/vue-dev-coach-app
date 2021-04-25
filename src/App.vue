@@ -41,6 +41,8 @@ html {
   font-family: 'Raleway', sans-serif;
 }
 body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
   margin: 0;
   min-height: 100vh;
   background-color: #00244e;

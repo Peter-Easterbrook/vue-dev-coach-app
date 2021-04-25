@@ -61,3 +61,9 @@ export default {
   }
 };
 </script>
+<style scoped>
+h2,
+h3 {
+  font-weight: 300;
+}
+</style>
