@@ -37,13 +37,15 @@ a {
   font: inherit;
   background-color: #0a3252;
   border: 1px solid #0a3252;
-
   color: white;
   cursor: pointer;
   border-radius: 30px;
   margin-right: 0.5rem;
   display: inline-block;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  font-weight: 300;
+  font-size: 0.8rem;
+  text-transform: uppercase;
 }
 
 a:hover,

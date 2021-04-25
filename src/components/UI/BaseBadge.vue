@@ -18,26 +18,26 @@ export default {
 <style scoped>
 .badge {
   background-color: #ccc;
-  color: #252525;
   border-radius: 30px;
   padding: 0.5rem 1.5rem;
   display: inline-block;
   margin-right: 0.5rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  font-size: 0.6rem;
 }
 
 .frontend {
-  background-color: #1870bb;
-  color: #f7f7f7;
+  background-color: #a4cff3;
+  color: #000;
 }
 
 .backend {
   background-color: #4da1e8;
-  color: #f7f7f7;
+  color: #000;
 }
 
 .career {
   background-color: #81bdef;
-  color: #f7f7f7;
+  color: #000;
 }
 </style>

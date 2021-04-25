@@ -79,6 +79,9 @@ ul {
   padding: 0;
   max-width: 30rem;
 }
+h2 {
+  font-weight: 400;
+}
 
 h3 {
   text-align: center;
