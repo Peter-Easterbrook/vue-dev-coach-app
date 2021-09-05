@@ -35,6 +35,8 @@ export default {
 
 <style scoped>
 header {
+  position: sticky;
+  top: 0;
   margin: 0;
   min-width: 100%;
   height: 5rem;
