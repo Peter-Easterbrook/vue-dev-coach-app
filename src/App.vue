@@ -77,11 +77,11 @@ body::-webkit-scrollbar-thumb:hover {
 }
 .route-enter-from {
   opacity: 0;
-  transform: translateY(-30px);
+  transform: translateY(30px);
 }
 .route-leave-to {
   opacity: 0;
-  transform: translateY(30px);
+  transform: translateY(-30px);
 }
 .route-enter-active {
   transition: all 0.3s ease-out;
