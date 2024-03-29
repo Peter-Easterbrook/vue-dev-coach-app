@@ -36,10 +36,7 @@ export default {
 * {
   box-sizing: border-box;
 }
-html {
-  scrollbar-width: thin;
-  scrollbar-color: #000913 #00549a;
-}
+
 @media screen and (min-width: 1680px) {
   html {
     padding: 0 10% 0 10%;
